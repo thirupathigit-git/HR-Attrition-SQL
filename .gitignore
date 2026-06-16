@@ -1,0 +1,17 @@
+# MySQL dump files
+*.sql.gz
+*.dump
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.env
