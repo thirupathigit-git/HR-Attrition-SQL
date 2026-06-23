@@ -243,8 +243,8 @@ mysql -u root -p hr_attrition_db < sql/06_indexes/performance_indexes.sql
 
 **Maram Thirupathi**
 - 📧 thirupathimaram8@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/thirupathi-maram)
-- 🐙 [GitHub](https://github.com/thirupathigit-git)
+- 💼 LinkedIn :https://www.linkedin.com/in/thirupathi-maram-8705732b0/
+- 🐙 GitHub   :https://github.com/thirupathigit-git
 
 ---
 
